@@ -3,11 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="becb65a2-e00a-4576-a57d-614ff64efe09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face_Match_Classifier/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Match_Classifier/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="Python.manage">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -88,6 +102,8 @@
       <updated>1592551371764</updated>
       <workItem from="1592551373507" duration="284000" />
       <workItem from="1592554003278" duration="17000" />
+      <workItem from="1592892290509" duration="41000" />
+      <workItem from="1592896725969" duration="4825000" />
     </task>
     <servers />
   </component>
@@ -95,24 +111,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="295" key="GridCell.Tab.0.bottom" timestamp="1592551440920">
+    <state width="1876" height="295" key="GridCell.Tab.0.bottom" timestamp="1592903449093">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592551440920" />
-    <state width="1876" height="295" key="GridCell.Tab.0.center" timestamp="1592551440920">
+    <state width="1876" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592903449093" />
+    <state width="1876" height="295" key="GridCell.Tab.0.center" timestamp="1592903449093">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592551440920" />
-    <state width="1876" height="295" key="GridCell.Tab.0.left" timestamp="1592551440920">
+    <state width="1876" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592903449093" />
+    <state width="1876" height="295" key="GridCell.Tab.0.left" timestamp="1592903449093">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592551440920" />
-    <state width="1876" height="295" key="GridCell.Tab.0.right" timestamp="1592551440920">
+    <state width="1876" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592903449093" />
+    <state width="1876" height="295" key="GridCell.Tab.0.right" timestamp="1592903449093">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592551440920" />
+    <state width="1876" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1592903449093" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Face_Match_Classifier$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592551437177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Face_Match_Classifier$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592897875565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
