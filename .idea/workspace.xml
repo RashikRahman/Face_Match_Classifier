@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="becb65a2-e00a-4576-a57d-614ff64efe09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Face_Match_Classifier/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face_Match_Classifier/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +103,7 @@
       <workItem from="1592554003278" duration="17000" />
       <workItem from="1592892290509" duration="41000" />
       <workItem from="1592896725969" duration="4825000" />
+      <workItem from="1592932258800" duration="1214000" />
     </task>
     <servers />
   </component>
